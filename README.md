@@ -1,3 +1,4 @@
 # chinnirepo-demo
 This is my first repository ...
-author-china babu jagannadham
+<br>
+Author-China Babu.Jagannadham
